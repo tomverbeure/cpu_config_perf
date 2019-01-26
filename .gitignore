@@ -1,6 +1,7 @@
 *.class
 *.log
 *.bak
+cpu0.yaml
 
 # sbt specific
 .cache/
